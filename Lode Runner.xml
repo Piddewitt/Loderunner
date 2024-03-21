@@ -1,0 +1,48 @@
+<NotepadPlus>
+    <Project name="data\originals\Lode Runner">
+        <Folder name="asm">
+            <File name="data\originals\Lode Runner\asm\it.asm" />
+            <File name="data\originals\Lode Runner\asm\Circle.asm" />
+        </Folder>
+        <Folder name="d64">
+            <File name="data\originals\Lode Runner\d64\Lode Runner.d64" />
+        </Folder>
+        <Folder name="dis">
+            <File name="data\originals\Lode Runner\dis\Circle.dis" />
+            <File name="data\originals\Lode Runner\dis\it.dis" />
+            <File name="data\originals\Lode Runner\dis\it.orig.dis" />
+        </Folder>
+        <Folder name="inc">
+            <File name="data\originals\Lode Runner\inc\LR_ZPG.asm" />
+            <File name="data\originals\Lode Runner\inc\LR_Var.asm" />
+            <File name="data\originals\Lode Runner\inc\LR_Garbage_01.asm" />
+            <File name="data\originals\Lode Runner\inc\LR_Garbage_02.asm" />
+            <Folder name="C64">
+                <File name="data\inc\c64.MEM.asm" />
+                <File name="data\inc\c64.VIC.asm" />
+                <File name="data\inc\c64.SID.asm" />
+                <File name="data\inc\c64.CIA1.asm" />
+                <File name="data\inc\c64.CIA2.asm" />
+                <File name="data\inc\c64.color.asm" />
+                <File name="data\inc\c64.CPU.ZP.asm" />
+                <File name="data\inc\c64.KERNAL.ZP.asm" />
+                <File name="data\inc\c64.KERNAL.API.asm" />
+                <File name="data\inc\c64.KERNAL.const.asm" />
+                <File name="data\inc\c64.KERNAL.routines.asm" />
+                <File name="data\inc\c64.BASIC.ZP.asm" />
+            </Folder>
+        </Folder>
+        <Folder name="lst">
+            <File name="data\originals\Lode Runner\lst\it.err" />
+            <File name="data\originals\Lode Runner\lst\it.lst" />
+            <File name="data\originals\Lode Runner\lst\it.sym" />
+        </Folder>
+        <Folder name="prg" />
+        <Folder name="xtra">
+            <File name="data\originals\Lode Runner\xtra\Gfx Correction Pokes.txt" />
+            <File name="data\originals\Lode Runner\xtra\Image_Offset_Table.txt" />
+            <File name="data\originals\Lode Runner\xtra\Image_Value_Table.txt" />
+        </Folder>
+        <File name="data\originals\Lode Runner\asm\Changes.txt" />
+    </Project>
+</NotepadPlus>
