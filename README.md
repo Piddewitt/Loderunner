@@ -1,5 +1,5 @@
 # Loderunner
-Original Lode Runner source code
+Commented source code of the C64 Lode Runner including copy protection
 ## Directory location
 - **dox**
 - **npp**
